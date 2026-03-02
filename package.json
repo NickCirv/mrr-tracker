@@ -1,0 +1,10 @@
+{
+  "name": "mrr-tracker",
+  "version": "1.0.0",
+  "description": "Track your MRR locally. No cloud. No subscriptions to track your subscriptions.",
+  "type": "module",
+  "bin": { "mrr": "./index.js" },
+  "keywords": ["mrr", "revenue", "indie-hacker", "saas", "cli", "tracker"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
