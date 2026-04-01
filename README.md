@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # mrr-tracker
 
 Track your MRR locally. No cloud. No SaaS to track your SaaS.
