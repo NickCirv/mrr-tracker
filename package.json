@@ -6,5 +6,6 @@
   "bin": { "mrr": "./index.js" },
   "keywords": ["mrr", "revenue", "indie-hacker", "saas", "cli", "tracker"],
   "license": "MIT",
-  "engines": { "node": ">=18" }
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
 }
